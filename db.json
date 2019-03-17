@@ -1,14 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "nama"   :"rizki nur safitri",
+  "age"    :20,
+  "collage": "university of amikom yogyakarta",
+  "addres" : {
+    "street" : "cawas-watukelir",
+    "village" : "grogol",
+    "sub-district": "weru",
+    "city"  : "sukoharjo",
+    "province" : "jawa tengah"
+  },
+  "sosial media" : [
+  {
+  "description": "instagram",
+  "link"       : "https://www.instagram.com/rizkisaf/?hl=en"
+},
+{
+  "description" : "facebook",
+  "link"        : "https://www.facebook.com/riski safitri/?hl=en"
+}
+]
 }
