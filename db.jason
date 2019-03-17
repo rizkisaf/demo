@@ -1,0 +1,22 @@
+{
+  "name"   :"rizki nur safitri",
+  "age"    :20,
+  "collage": "university of amikom yogyakarta",
+  "addres" : {
+    "street" : "cawas-watukelir",
+    "village" : "grogol",
+    "sub-district": "weru",
+    "city"  : "sukoharjo",
+    "province" : "jawa tengah"
+  },
+  "sosial media" : [
+  {
+  "description": "instagram",
+  "link"       : "https://www.instagram.com/rizkisaf/?hl=en"
+},
+{
+  "description" : "facebook",
+  "link"        : "https://www.facebook.com/riski safitri/?hl=en"
+}
+]
+}
